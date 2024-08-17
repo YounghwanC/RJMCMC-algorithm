@@ -43,4 +43,4 @@ For any questions or further information, please contact:
 ## Citation
 If you use this work in your research, please cite as follows:
 ```plaintext
-Cho, Y. B. (2020). RJMCMC for Model selection in Linear Regression. [RJMCMC-algorithm], GitHub. [https://github.com/YounghwanC/RJMCMC-algorithm.git]
+Cho, Y. B. (2024). RJMCMC for Model selection in Linear Regression. [RJMCMC-algorithm], GitHub. [https://github.com/YounghwanC/RJMCMC-algorithm.git]
