@@ -31,5 +31,16 @@ run('src/rjmcmc_script.m')
 ```
 
 ## License
+This work is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the content in this repository, provided you give appropriate credit to the original author.
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+## Contributing
+Contributions to this repository are welcome. If you have suggestions or improvements, feel free to open an issue or submit a pull request.
+
+## Contact
+For any questions or further information, please contact:
+- **Younghwan Brian Cho** - [yhcho9270@gmail.com](yhcho9270@gmail.com)
+
+## Citation
+If you use this work in your research, please cite as follows:
+```plaintext
+Cho, Y. B. (2020). RJMCMC for Model selection in Linear Regression. [RJMCMC-algorithm], GitHub. [https://github.com/YounghwanC/RJMCMC-algorithm.git]
