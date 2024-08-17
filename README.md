@@ -10,13 +10,6 @@ This project explores the application of the Reversible Jump Markov Chain Monte 
 - **Dynamic Model Exploration**: The algorithm allows for sampling across different model dimensions, providing a flexible approach to model selection.
 - **Simulation Studies**: The project includes simulations to evaluate the performance of RJMCMC under various scenarios, including different feature space sizes and levels of noise.
 
-## Project Structure
-
-- **src/**: Contains the source code for the RJMCMC algorithm implementation.
-- **results/**: Stores the output of the simulations, including plots and tables summarizing the findings.
-- **docs/**: Documentation and reports related to the project, including the final project report in PDF format.
-- **README.md**: This file, providing an overview of the project, setup instructions, and other relevant details.
-
 ## Requirements
 
 To run this project, you need the following:
