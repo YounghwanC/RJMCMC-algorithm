@@ -35,3 +35,7 @@ To run the RJMCMC algorithm on your own data:
 
 ```matlab
 run('src/rjmcmc_script.m')
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
